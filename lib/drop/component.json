@@ -1,0 +1,15 @@
+{
+  "name": "drop",
+  "dependencies": {
+    "component/classes": "*",
+    "component/emitter": "*",
+    "component/events": "*",
+    "component/normalized-upload": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "index.css"
+  ]
+}

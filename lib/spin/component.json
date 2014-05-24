@@ -1,0 +1,14 @@
+{
+  "name": "spin",
+  "dependencies": {
+    "component/classes": "*",
+    "component/emitter": "*",
+    "component/spin": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "index.css"
+  ]
+}

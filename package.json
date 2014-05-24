@@ -19,6 +19,11 @@
   "homepage": "https://github.com/fraserxu/gify-app",
   "devDependencies": {
     "component": "^0.19.9",
-    "component-builder": "^1.1.5"
+    "component-builder": "^1.1.5",
+    "grunt": "^0.4.5",
+    "grunt-download-atom-shell": "^0.7.2"
+  },
+  "dependencies": {
+    "gify": "^0.2.0"
   }
 }
