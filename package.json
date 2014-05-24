@@ -1,0 +1,24 @@
+{
+  "name": "gify-app",
+  "version": "0.1.0",
+  "description": "Convert videos to gifs as an OS X, Linux and Windows app",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "./node_modules/.bin/component install && ./node_modules/.bin/component build --standalone gifyApp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fraserxu/gify-app.git"
+  },
+  "author": "fraserxu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fraserxu/gify-app/issues"
+  },
+  "homepage": "https://github.com/fraserxu/gify-app",
+  "devDependencies": {
+    "component": "^0.19.9",
+    "component-builder": "^1.1.5"
+  }
+}

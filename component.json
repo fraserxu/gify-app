@@ -1,0 +1,12 @@
+{
+  "name": "gify-app",
+  "paths": [
+    "lib"
+  ],
+  "local": [
+    "boot"
+  ],
+  "scripts": [
+    "index.js"
+  ]
+}
