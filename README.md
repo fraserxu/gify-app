@@ -2,11 +2,11 @@
 
 > Convert videos to gifs as an OS X, Linux and Windows app
 
-Inspired from [imagemin-app](https://github.com/kevva/imagemin-app) by @kevva
+The idea came from the post [How to create high quality animated GIFs](https://cloudup.com/blog/how-to-create-high-quality-animated-gifs-from-video) by [@guille](https://github.com/guille), and then I found [@kevva](https://github.com/kevva) made the [imagemin-app](https://github.com/kevva/imagemin-app). I just combined them together.
 
 ## Install
 
-Run it manually by first installing [atom-shell][atom-shell](https://github.com/atom/atom-shell/releases) and follow the instructions below:
+Run it manually by first installing [atom-shell](https://github.com/atom/atom-shell/releases) and follow the instructions below:
 
 ```sh
 $ git clone https://github.com/fraserxu/gify-app
