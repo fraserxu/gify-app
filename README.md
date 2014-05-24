@@ -1,4 +1,4 @@
-# gify-app
+# gify-app <img src="media/demo.gif" width="200" align="right">
 
 > Convert videos to gifs as an OS X, Linux and Windows app
 
