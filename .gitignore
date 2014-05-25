@@ -2,3 +2,5 @@ build
 components
 node_modules
 release
+binaries
+Gruntfile.js
