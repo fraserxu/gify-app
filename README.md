@@ -11,7 +11,7 @@ Run it manually by first installing [atom-shell](https://github.com/atom/atom-sh
 ```sh
 $ git clone https://github.com/fraserxu/gify-app
 $ cd gify-app
-$ npm isntall && npm start
+$ npm install && npm start
 $ path/to/atom-shell ./
 ```
 
@@ -32,7 +32,7 @@ You can install them through `homebrew` if you are using a mac
 
 ## Todo
 
-* Dispaly converted gif in the page
+* Display converted gif in the page
 * Generate binary file
 
 ## License
