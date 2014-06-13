@@ -6,6 +6,9 @@ The idea came from the post [How to create high quality animated GIFs](https://c
 
 ## Install
 
+Get the first binary for [gify-app-mac-v0.1.0.zip](https://github.com/fraserxu/gify-app/releases/download/v0.1.0/gify-app-mac-v0.1.0.zip).
+
+
 Run it manually by first installing [atom-shell](https://github.com/atom/atom-shell/releases) and follow the instructions below:
 
 ```sh
