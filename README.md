@@ -11,7 +11,7 @@ Run it manually by first installing [atom-shell](https://github.com/atom/atom-sh
 ```sh
 $ git clone https://github.com/fraserxu/gify-app
 $ cd gify-app
-$ npm isntall && npm start
+$ npm install && npm start
 $ path/to/atom-shell ./
 ```
 
