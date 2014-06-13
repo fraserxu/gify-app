@@ -2,7 +2,7 @@
 
 > Convert videos to gifs as an OS X, Linux and Windows app
 
-The idea came from the post [How to create high quality animated GIFs](https://cloudup.com/blog/how-to-create-high-quality-animated-gifs-from-video) by [@guille](https://github.com/guille), and then I found [@kevva](https://github.com/kevva) made the [imagemin-app](https://github.com/kevva/imagemin-app). I just combined them together.
+The idea came from the post [How to create high quality animated GIFs](https://cloudup.com/blog/how-to-create-high-quality-animated-gifs-from-video) by [@guille](https://github.com/guille), and then I found [@kevva](https://github.com/kevva) made the [imagemin-app](https://github.com/kevva/imagemin-app). So I combined them.
 
 ## Install
 
@@ -28,12 +28,12 @@ to find out how.
 * ffmpeg
 * graphicsmagick
 
-You can install them through `homebrew` if you are using a mac
+You can install them through `homebrew` if you are using a mac.
 
 ## Todo
 
-* Dispaly converted gif in the page
 * Generate binary file
+* Logo
 
 ## License
 
