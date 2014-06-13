@@ -1,0 +1,12 @@
+{
+  "name": "options",
+  "dependencies": {
+    "component/classes": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "index.css"
+  ]
+}

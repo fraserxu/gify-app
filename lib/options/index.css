@@ -1,0 +1,19 @@
+.Options {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    left: 0;
+    display: none;
+    margin-top: 180px;
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: center;
+}
+
+.Options.is-visible {
+    display: block;
+}
+
+.Options input {
+    padding-right: 5px;
+    width: 35px;
+}
